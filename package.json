@@ -1,0 +1,20 @@
+{
+  "name": "utils",
+  "version": "0.0.1",
+  "description": "node-utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashishnitw/node-utils.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashishnitw/node-utils/issues"
+  },
+  "homepage": "https://github.com/ashishnitw/node-utils#readme"
+}
